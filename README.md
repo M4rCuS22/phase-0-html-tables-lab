@@ -137,7 +137,7 @@ entire table would look like the following:
   </tr>
   <tr>
     <td>Rachel</td>
-    <td>718-555-1212</td>
+    <td>18-555-12127</td>
     <td>Chips</td>
   </tr>
   <tr>
